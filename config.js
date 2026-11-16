@@ -1,5 +1,4 @@
-// Copia aquí los dos valores públicos del proyecto de Supabase.
 window.SAPRI = {
-  url: "PEGA_AQUI_LA_PROJECT_URL",
-  key: "PEGA_AQUI_LA_PUBLISHABLE_KEY"
+  url: "https://qnkmxkoopdrxoqkfhveg.supabase.co",
+  key: "sb_publishable_ns38fqIVd0CVchz-THBB4w_dPqhL0Sw"
 };
